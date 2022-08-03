@@ -1,0 +1,5 @@
+#忽略c.txt
+b.txt
+
+#忽略test下的d.txt
+test/
